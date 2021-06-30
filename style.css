@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+}
+
+#Home {
+    background: linear-gradient(#ab4bfa 0%, #ff52c8 100%)
+}
+
+img {
+    width: 500px;
+    border-style:groove;
+    border-color:chartreuse;
+    border-radius: 100px;
+    border-width: 20px;
+    padding: 10px;
+    margin-top: 90px;
+}
+
+#MenuBar{   
+list-style:none;
+position:fixed;
+cursor:pointer;
+}
